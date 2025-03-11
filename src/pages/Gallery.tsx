@@ -6,21 +6,21 @@ import AnimatedSection from '@/components/AnimatedSection';
 
 /* Import de imagens*/
 import GalleryImage from '@/components/GalleryImage';
-import CaipirinhaMaracuja from '../path/drinks/CaipirinhaMaracuja.jpeg';
-import CaipirinhaVinho from '../path/drinks/CaipirinhaVinho.jpeg';
-import BatidinhaMaracuja from '../path/drinks/BatidinhaMaracuja.jpeg';
-import BatidinhaMorango from '../path/drinks/BatidinhaMorango.jpeg';
-import Familia from '../path/eventos/Familia.jpeg';
-import Confraternizacao from '../path/eventos/Confraternizacao.jpeg';
-import Casamento from '../path/eventos/Casamento.jpeg';
-import Abacaxi from '../path/ingredientes/Abacaxi.jpeg';
-import Morango from '../path/ingredientes/Morango.jpeg';
-import Melancia from '../path/ingredientes/Melancia.jpeg';
-import Limao from '../path/ingredientes/Limao.jpeg';
-import Eu from '../path/eventos/Trabalhando.jpeg';
-import Aniversario from '../path/eventos/Aniversario.jpeg';
-import AniversarioQuinze from '../path/eventos/AniversarioQuinze.jpeg';
-import CasamentoDois from '../path/eventos/CasamentoDois.jpeg';
+import CaipirinhaMaracuja from '../assets/drinks/CaipirinhaMaracuja.jpeg';
+import CaipirinhaVinho from '../assets/drinks/CaipirinhaVinho.jpeg';
+import BatidinhaMaracuja from '../assets/drinks/BatidinhaMaracuja.jpeg';
+import BatidinhaMorango from '../assets/drinks/BatidinhaMorango.jpeg';
+import Familia from '../assets/eventos/Familia.jpeg';
+import Confraternizacao from '../assets/eventos/Confraternizacao.jpeg';
+import Casamento from '../assets/eventos/Casamento.jpeg';
+import Abacaxi from '../assets/ingredientes/Abacaxi.jpeg';
+import Morango from '../assets/ingredientes/Morango.jpeg';
+import Melancia from '../assets/ingredientes/Melancia.jpeg';
+import Limao from '../assets/ingredientes/Limao.jpeg';
+import Eu from '../assets/eventos/Trabalhando.jpeg';
+import Aniversario from '../assets/eventos/Aniversario.jpeg';
+import AniversarioQuinze from '../assets/eventos/AniversarioQuinze.jpeg';
+import CasamentoDois from '../assets/eventos/CasamentoDois.jpeg';
 
 import { Button } from '@/components/ui/button';
 import { Link } from 'react-router-dom';

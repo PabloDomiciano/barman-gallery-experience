@@ -7,14 +7,14 @@ import GalleryImage from '@/components/GalleryImage';
 import Testimonial from '@/components/Testimonial';
 
 /*Imagens*/ 
-import CaipirinhaMaracuja from '../path/drinks/CaipirinhaMaracuja.jpeg';
-import BatidinhaMorango from '../path/drinks/BatidinhaMorango.jpeg';
-import BatidinhaMaracuja from '../path/drinks/BatidinhaMaracuja.jpeg';
+import CaipirinhaMaracuja from '../assets/drinks/CaipirinhaMaracuja.jpeg';
+import BatidinhaMorango from '../assets/drinks/BatidinhaMorango.jpeg';
+import BatidinhaMaracuja from '../assets/drinks/BatidinhaMaracuja.jpeg';
 
 import { Link } from 'react-router-dom';
 import { ArrowRight, ChefHat, Sparkles, Clock, Users } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import Banner from "../path/Banner.jpeg";
+import Banner from "../assets/Banner.jpeg";
 
 const Index = () => {
   const features = [

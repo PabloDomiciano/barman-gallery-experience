@@ -5,7 +5,7 @@ import Footer from '@/components/Footer';
 import AnimatedSection from '@/components/AnimatedSection';
 import { Button } from '@/components/ui/button';
 import { Link } from 'react-router-dom';
-import Acao from '../path/Acao.jpeg';
+import Acao from '../assets/Acao.jpeg';
 import { 
   ShoppingCart, 
   FileCheck, 
